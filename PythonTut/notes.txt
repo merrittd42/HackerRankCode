@@ -1,0 +1,4 @@
+Reading input from console: input("message to print to terminal")
+To do type conversion for primitives, wrap strings in things like int(string) or long/float/complex/str(string)
+To have a number be a float after division, use //, for int, use /
+To print on a single line, use print(var, end = delimiter)
